@@ -6,7 +6,7 @@ There's a lot of things I think are cool.<br/>
 I like cool things.<br/>
 So I try to make those cool things.<br/>
 <br/>
-For commissions, click below.<br/>
+If you like my stuff, or for commissions, click below.<br/>
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aspher0)
 
 # My skills:
