@@ -8,9 +8,6 @@ So I try to make those cool things.<br/>
 <br/>
 I do have a Discord server now, come check it out here: https://discord.gg/kzAnEbgfq5
 <br/>
-<br/>
-If you like my stuff, or for commissions, click below.<br/>
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aspher0)
 
 
 # Some icons that make no sense and have no meaning whatsoever:
