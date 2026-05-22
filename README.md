@@ -4,9 +4,7 @@ I'm a Web Dev at first, mainly creating websites and web apps in PHP.<br/>
 Lately, I've grown a passion for software dev. This github will share some of the things I make.<br/><br/>
 There's a lot of things I think are cool.<br/>
 I like cool things.<br/>
-So I try to make those cool things.<br/>
-<br/>
-I do have a Discord server now, come check it out here: https://discord.gg/kzAnEbgfq5
+So I try to make those cool things.
 <br/>
 
 
